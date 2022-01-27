@@ -1,2 +1,2 @@
 # decimal
-Tarea para multiplicar x10
+Hacer un programa que multiplique x10 todo lo que entre
